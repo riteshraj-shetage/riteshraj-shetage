@@ -11,6 +11,6 @@
 
 🚀 I'm passionate about data-driven insights, problem-solving, and coding solutions that make a positive impact. 
 
-💡 Feel free to explore my repositories to see my coding projects and experiments. Let's connect and collaborate on exciting tech endeavors!
+💡 Feel free to explore my repositories to see my coding projects and experiments.
 
 🌟 Thank you for visiting, and let's code the future together!

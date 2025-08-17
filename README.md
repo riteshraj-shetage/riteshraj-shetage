@@ -1,16 +1,53 @@
-# Hi, Welcome!
+# Hi, I'm Riteshraj Shetage 👋
 
-🌷 This is Riteshraj Shetage, an under-grad student from Kolhapur, Maharashtra, India. 
+Aspiring software developer passionate about turning ideas into impactful solutions.  
+Currently pursuing an MCA at JSPM’s Rajarshi Shahu College of Engineering, Pune.
 
-- 🎓 I'm currently pursuing a bachelor's degree in Statistics, and I have ambitious plans to transition into the IT field, with a specific focus on emerging technologies like Generative AI, Machine Learning, Data Science etc.
+---
 
-## About Me
+### 🌱 About Me
 
-- 📚 Studying: Pursuing a bachelor's degree in Statistics.
-- 💻 Career Aspirations: Eager to enter the IT field, particularly in Data Science.
+- 💻 I love learning new technologies and applying them to real-world challenges.
+- 🎓 Strong foundation in computer science, programming, and data analysis.
+- 🤝 Open to connecting and collaborating on meaningful projects.
 
-🚀 I'm passionate about data-driven insights, problem-solving, and coding solutions that make a positive impact. 
+---
 
-💡 Feel free to explore my repositories to see my coding projects and experiments.
+### 🛠️ Skills & Tools
 
-🌟 Thank you for visiting, and let's code the future together!
+- **Languages:** Java, Python, R, PHP, SQL
+- **Frontend:** HTML5, CSS3, JavaScript, AngularJS
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** GitHub, Git, Eclipse IDE, IntelliJ IDEA
+
+---
+
+### 🚀 Projects
+
+- **Academic Reports Generation Website**  
+  Automated generation and management of academic reports for students and faculty.
+
+- **Flashcards-based Vocabulary Webapp**  
+  Interactive platform for vocabulary learning using multimedia flashcards.
+
+- **Digital Adoption: Statistical Analysis of Smartphone Usage**  
+  Data collection and analysis to identify trends in smartphone use.
+
+---
+
+### 🎯 Certifications
+
+- Responsive Web Design (freeCodeCamp)
+- TCS iON Career Edge – Young Professional
+- Computation of Statistics using R Software
+
+---
+
+### 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/riteshraj-shetage/)
+- Email: riteshraj.shetage@outlook.com
+
+---
+
+*Always eager to learn, build, and grow together!*
